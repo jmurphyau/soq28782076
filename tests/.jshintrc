@@ -21,7 +21,10 @@
     "andThen",
     "currentURL",
     "currentPath",
-    "currentRouteName"
+    "currentRouteName",
+    "clickWaitOneAsync",
+    "setInterval",
+    "clearInterval"
   ],
   "node": false,
   "browser": false,

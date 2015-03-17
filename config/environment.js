@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'soq',
+    modulePrefix: 'soq28782076',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

@@ -6,6 +6,12 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('indexx');
+  this.route('testabc');
+  this.route('testabc2');
+  this.route('testabc3');
+  this.route('testabc34');
+  this.route('testabc3432');
 });
 
 export default Router;
